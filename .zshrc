@@ -1,7 +1,10 @@
 # Linux aliases
-alias la="ls -alh"
-alias poweroff="systemctl poweroff"
-alias reboot="systemctl reboot"
+alias la='ls -alh'
+alias poweroff='systemctl poweroff'
+alias reboot='systemctl reboot'
+
+# Brew aliases
+alias brewup='brew update && brew upgrade && autoremove'
 
 # Git aliases
 alias gad='git add'
