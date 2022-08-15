@@ -1,0 +1,9 @@
+[core]
+	editor = vim
+
+[status]
+	short = true
+  
+[user]
+	name = Matt Dear
+	email = mrmdear@gmail.com
