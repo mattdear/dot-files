@@ -1,3 +1,8 @@
+# Linux aliases
+alias la="ls -alh"
+alias poweroff="systemctl poweroff"
+alias reboot="systemctl reboot"
+
 # Git aliases
 alias gad='git add'
 alias gbr='git branch'
