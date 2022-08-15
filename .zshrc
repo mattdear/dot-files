@@ -4,7 +4,7 @@ alias poweroff='systemctl poweroff'
 alias reboot='systemctl reboot'
 
 # Brew aliases
-alias brewup='brew update && brew upgrade && autoremove'
+alias brewup='brew update && brew upgrade && brew autoremove'
 
 # Git aliases
 alias gad='git add'
