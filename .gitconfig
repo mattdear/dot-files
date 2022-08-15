@@ -1,9 +1,16 @@
 [core]
+	; Set default commit editor
 	editor = vim
+	
+[log]
+	; Display shortened commit IDs
+	abbrevCommit = true
 
 [status]
+	; Display shortened status information
 	short = true
   
-[user]
+[user]	
+	; Set commit name and email address
 	name = Matt Dear
 	email = mrmdear@gmail.com
